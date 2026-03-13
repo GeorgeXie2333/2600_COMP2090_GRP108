@@ -124,7 +124,7 @@ Or register a new **Passenger** / **Admin** account from the login screen.
 |---------|---------|---------|
 | [pywebview](https://pywebview.flowrl.com/) | ≥ 5.0 | Native GUI window with embedded web content |
 | [passlib](https://passlib.readthedocs.io/) | ≥ 1.7.4 | Password hashing utilities |
-| [bcrypt](https://github.com/pyca/bcrypt) | ≥ 4.0.0, < 5.0.0 | Bcrypt hashing backend for passlib |
+| [bcrypt](https://github.com/pyca/bcrypt) | ≥ 4.0.0 | Bcrypt hashing backend for passlib |
 
 ---
 
